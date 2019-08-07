@@ -4,7 +4,7 @@ Repositório com conteúdos e informes da disciplina de Algoritmos I IFPI Parna�
 
 #### Plano de disciplina
 
-* [2019.2 - Tarde](/plano/2019.2.pdf)
+* [2019.2 - Tarde](/planos/2019.2.pdf)
 
 #### URI Online Judge - Plataforma de atividades
 
