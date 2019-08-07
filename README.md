@@ -22,4 +22,4 @@ https://www.urionlinejudge.com.br/judge/pt/faqs/about/examples
 
 #### Video-aulas: Gustavo Guanabara
 
-Para quem busca uma boa video-aula para complementar os estudos, as do [Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) são ótimas.
+Para quem busca uma boa video-aula para complementar os estudos, as do [Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) são ótimas. Ver as playlists 1, 2, 3, 5 e 6.
